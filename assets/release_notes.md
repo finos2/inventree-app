@@ -6,7 +6,6 @@
 
 - Refactor home screen display
 - Display unread notifications on home screen
-- Fixes duplicated display of units when showing stock quantity
 
 ### 0.6.2 - April 2022
 ---

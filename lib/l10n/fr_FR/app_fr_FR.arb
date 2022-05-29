@@ -194,8 +194,8 @@
     "@history": {
         "description": "history"
     },
-    "@homeScreen": {},
     "homeScreen": "Ecran d'accueil",
+    "@homeScreen": {},
     "homeScreenSettings": "Configurer les paramètres de l'écran d'accueil",
     "@homeScreenSettings": {},
     "homeShowPo": "Afficher les commandes d'achat",
