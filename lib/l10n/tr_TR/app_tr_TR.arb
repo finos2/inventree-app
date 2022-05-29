@@ -206,8 +206,8 @@
     "@history": {
         "description": "history"
     },
-    "@homeScreen": {},
     "homeScreen": "Ana Ekran",
+    "@homeScreen": {},
     "homeScreenSettings": "Ana ekran ayarlarınızı yapılandırın",
     "@homeScreenSettings": {},
     "homeShowPo": "Satın Alma Siparişlerini Göster",

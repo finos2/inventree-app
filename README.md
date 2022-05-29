@@ -1,6 +1,3 @@
-# inventree-app
-[Fork](https://github.com/inventree/inventree-app) of inventree app , with added fetures . 
-
 # InvenTree Mobile App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

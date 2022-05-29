@@ -261,6 +261,10 @@ class InvenTreePart extends InvenTreeModel {
 
       String q = simpleNumberString(inStock);
 
+      if (units.isNotEmpty) {
+        q += " ${units}";
+      }
+
       return q;
     }
 
@@ -277,6 +281,10 @@ class InvenTreePart extends InvenTreeModel {
 
     String get unallocatedStockString {
       String q = simpleNumberString(unallocatedStock);
+
+      if (units.isNotEmpty) {
+        q += " ${units}";
+      }
 
       return q;
     }
